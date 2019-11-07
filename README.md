@@ -1,38 +1,21 @@
 ##随时修改##
-## Welcome to GitHub Pages
+## Welcome to 穷逼大家庭
 
-You can use the [editor on GitHub](https://github.com/firstkiller/firstkiller.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+生活是什么?我思考着。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+向前看是追求生活，往后看是品味生活。在忙碌的生活中，是享受生活。在闲暇饭后我们思考着生活。
 
-### Markdown
+生活中需要快乐，渴望快乐永远伴随在我们身边。但现实和理想总是有一段距离，生活中总是少不了计较，勉不了烦恼。我们何不退一步?退一步就会海阔天空。为什么不多一份宽容，少一点计较呢?给别人一片天空，添自己一份快乐。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+“路漫漫其修远兮，吾将上下而求索。”路是人走出来的，其中的艰辛只有行路的人才能体味。在这坎坷的人生道路上，我们为什么不想想人生的意义?去追求理想的人生，无限风光在险峰。
 
-```markdown
-Syntax highlighted code block
+我思考着生活。也许你今天还在生活的苦海中苦苦挣扎，期待着你盼望的那一天到来;或许你就此厌倦生活，对生活失去了希望和憧憬，但只要我们意志坚定，定会苦尽甘来。相信吧, “长风破浪会有时，直挂云帆济沧海。”
 
-# Header 1
-## Header 2
-### Header 3
+我思考着生活。也许你一时半刻领悟不到生活的美丽。但为何不仔细想想，如果我们没有身处寒冷风霜，又怎能品味万家灯火的温暖辉煌?如果没有困难和挫折，我们又怎能感悟人生的精彩?
 
-- Bulleted
-- List
+我思考着生活。没有经历不平凡的磨炼又怎能知晓生活的酸甜苦辣呢?不经风雨难以见彩虹，不经挫折，又何以懂得生活的价值?生活它可以使我们志气高涨，意志坚定，思想、人格更成熟。
 
-1. Numbered
-2. List
+哦，喜怒哀乐，酸甜苦辣，这就是生活。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/firstkiller/firstkiller.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+看完了请发一句曾狗子大傻逼
